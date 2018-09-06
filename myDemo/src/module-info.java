@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author liankun
- *
- */
-module myDemo {
-}
